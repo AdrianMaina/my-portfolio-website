@@ -1,5 +1,5 @@
 # My-Portfolio-Website
-Welcome to my portfolio website! This repository contains the source code for my personal portfolio website, where you can learn more about me and how to contact me.
+Welcome to my portfolio website! This repository contains the link to my portfolio website, where you can learn more about me and how to contact me.
 
 
 ## Description
